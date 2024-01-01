@@ -1,0 +1,16 @@
+.body{
+  background-color: rgb(42, 36, 36);
+  height: 100vh;
+  width: 100%;
+  position: relative;
+}
+
+.container{
+  position: absolute;
+  top: 50%;
+  left: 42%;
+  display: inline-block;
+  justify-content: center;
+}
+
+
